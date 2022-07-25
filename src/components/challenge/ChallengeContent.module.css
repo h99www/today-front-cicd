@@ -1,0 +1,92 @@
+.content {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #A49A93;
+    width: 900px;
+    display: inline-block;
+}
+
+.host {
+    color: #A49A93;
+    font-size: 1rem;
+    font-weight: bold;
+    width: 100px;
+    margin-left: 2rem;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.hostname {
+    vertical-align: top;
+    width: 150px;
+    color: #A49A93;
+    font-size: 1rem;
+    margin-left: 2rem;
+    display: inline-block;
+}
+
+.tabArea {
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.tab, .standard {
+    margin-right: 3rem;
+    font-size: 1.5rem;
+    color: #A49A93;
+    font-weight: bold;
+    border: 0;
+    outline: 0;
+    background-color: white;
+    cursor: pointer;
+}
+
+.standard {
+    border-bottom: solid 3px #A49A93;
+    padding-bottom: 0.5rem;
+}
+
+.authArea, .authCount {
+    display: flex;
+}
+
+.infoSubImgTitle {
+    color: #A49A93;
+    font-size: 1.2rem;
+    margin-right: 55px;
+}
+
+.authInfo {
+    margin-left: 5rem;
+}
+
+.authTitle {
+    font-size: 1.5rem;
+    color: #A49A93;
+}
+
+.authLink {
+    margin-left: 40rem;
+}
+
+.authCountType {
+    width: 20vw;
+    height: 10vh;
+    border: solid 1px #A49A93;
+    border-radius: 1rem;
+    margin-right: 3rem;
+    margin-top: 2rem;
+    padding: 10px;
+    font-size: 1.2rem;
+    color: #A49A93;
+}
+
+.banner {
+    width: 1300px;
+    height: 150px;
+}

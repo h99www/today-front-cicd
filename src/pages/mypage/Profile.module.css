@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&family=Roboto:wght@300&display=swap');
+
+.header {
+  width: 100%;
+}
+.line {
+  border-color: #844F15 !important;
+}
+.container {
+  margin-left: 5%;
+  width: 80%;
+  font-family: 'Noto Sans KR', sans-serif !important;
+}
+
+.contentContainer {
+  flex-direction: column;
+  
+}
+.img {
+  position: relative;
+  left: 50%;
+}
+
+.challengeNumBox {
+  
+  border: 1px solid #844F15;
+  border-radius: 10px;
+  display: flex;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+}
+
+.engagingBox {
+  border-right: solid 1px;
+  border-color: #844F15;
+  width:33%
+}
+
+.completeBox {
+  border-right: solid 1px;
+  border-color: #844F15;
+  width:33%
+}
+
+.openBox {
+  width:33%
+}
+
+.challengeListBox {
+  border: 1px solid #844F15;
+  border-radius: 10px;
+  width: 60%;
+  height: 100%;
+  margin: auto;
+}
+
+table {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+}

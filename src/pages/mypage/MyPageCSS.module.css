@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&family=Roboto:wght@300&display=swap');
+
+.container {
+  width: 100vw;
+  font-family: 'Noto Sans KR', sans-serif !important;
+}
+.content {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  flex-wrap : wrap;
+  font-family: 'Noto Sans KR', sans-serif !important;
+  
+  width: 100%;
+  
+}

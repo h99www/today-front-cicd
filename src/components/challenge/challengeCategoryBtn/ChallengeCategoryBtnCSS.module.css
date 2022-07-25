@@ -1,0 +1,28 @@
+.categoryBtn {
+  margin-top: 5vh;
+  margin-left: 5vw;
+}
+
+.basic {
+  margin: 10px;
+  border: none;
+  width: 80px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #C2A894;
+  color: white;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.selected {
+  margin: 10px;
+  border: none;
+  width: 80px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: #000000;
+  color: white;
+  cursor: pointer;
+  font-weight: 400;
+}

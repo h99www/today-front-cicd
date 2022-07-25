@@ -1,0 +1,185 @@
+.area {
+  width: 70%;
+  margin-left: 15%;
+  height: 760px;
+  overflow-y: scroll;
+}
+
+.area > hr {
+  height: 1px;
+  margin-top: 1%;
+  color: #844F15;
+  background-color: #844F15;
+}
+
+.textinput {
+  margin-left: 1%;
+  margin-top: 1.3%;
+  margin-bottom: 2%;
+  width: 400px;
+  height: 24px;
+  font-size: 1em;
+}
+
+.textAreaInput {
+
+  margin-left: 1%;
+  margin-top: 1.5%;
+  margin-bottom: 2%;
+  width: 400px;
+  height: 140px;
+  font-size: 1.2em;
+}
+
+.checkinput > div{
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
+
+.timeLabel {
+  font-size: 1em;
+}
+
+.timeinput > div{
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+}
+
+.timeInputBox {
+  margin-left: 40px;
+}
+
+.dateInputBox {
+  width: 150px;
+  height: 30px;
+}
+
+.title {
+  margin-top: 2%;
+  font-size: 1.9em;
+  font-weight: 900;
+}
+
+.subtitle {
+  font-size: 1.2em;
+  font-weight: 800;
+  margin-left: 1%;
+  margin-top: 15px;
+  display: inline-block;
+}
+
+.description {
+  font-size: 0.8em;
+  margin: 1%;
+  margin-top: 1%;
+}
+
+.defaultbtn {
+  border: none;
+  border-radius: 5px;
+  background-color: #CDCDCD;
+  color: white;
+  font-weight: 600;
+  font-size: 1em;
+  width: 80px;
+  height: 35px;
+  margin: 1%;
+  cursor: pointer;
+}
+.choosenbtn {
+  border: none;
+  border-radius: 5px;
+  background-color: #000000;
+  color: white;
+  font-weight: 600;
+  font-size: 1em;
+  width: 80px;
+  height: 35px;
+  margin: 1%;
+  cursor: pointer;
+}
+
+.challengeDescriptarea {
+  margin-left: 1%;
+  margin-top: 100px;
+}
+.challengeDescriptarea > label{
+
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+.challengeDescriptarea > textarea {
+  margin-top: 20px;
+  width: 500px;
+  height: 150px;
+  font-size: 1.3em;
+  padding: 10px;
+}
+
+.registbtnarea {
+  text-align: right;
+  margin-right: 13%;
+  margin-top:  40px;
+  margin-bottom:  100px;
+}
+.registbtnarea > button {
+  border: none;
+  border-radius: 5px;
+  background-color: #E1DBD6;
+  font-weight: 600;
+  font-size: 1em;
+  width: 100px;
+  height: 40px;
+  margin: 1%;
+  cursor: pointer;
+}
+
+
+
+
+
+.imageinputarea {
+
+  margin-top: 1%;
+  margin-left: 1%;
+}
+
+.imageinputarea > label {
+  font-size: 1em;
+  font-weight: 600;
+}
+
+.imageinputarea > div {
+  border: 1px solid #ababab;
+  width: 500px;
+  height: 300px;
+}
+
+.imageinputbox {
+  text-align: center;
+}
+
+.imageinputbox > img {
+  max-width: 400px;
+  max-height: 170px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.imageinputbox > label {
+  font-size: 1.2em;
+}
+
+.imageinputbox > button {
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: #454CAD;
+  color: white;
+  margin-top: 10px;
+  cursor: pointer;
+}

@@ -1,0 +1,10 @@
+.content {
+    flex-grow: 16;
+    margin-left: 5rem;
+    margin-top: 5rem;
+}
+
+.line {
+    width: 90%;
+    margin-right: 20%;
+}
