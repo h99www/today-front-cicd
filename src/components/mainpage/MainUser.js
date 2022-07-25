@@ -18,7 +18,7 @@ function MainUser() {
   return (
     <div className={ MainUserCSS.area }>
       <div className={ MainUserCSS.greeting}>
-        <label>어서오세요</label>
+        <label>어서오세요??</label>
       </div>
       <div className={ MainUserCSS.name }>
         { token? <label>{decoded.nickname} 님</label> : null }
